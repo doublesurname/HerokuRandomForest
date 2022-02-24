@@ -7,7 +7,6 @@
 from flask import Flask
 import joblib
 import asyncio
-import lightgbm
 
 
 # In[2]:
